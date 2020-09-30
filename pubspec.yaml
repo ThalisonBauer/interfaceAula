@@ -23,6 +23,7 @@ environment:
 dependencies:
   responsive_grid: ^1.0.1
   percent_indicator: "^2.1.7+2"
+  badges: ^1.1.3
   flutter:
     sdk: flutter
     
