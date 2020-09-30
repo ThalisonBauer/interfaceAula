@@ -2,7 +2,7 @@
 
 A new Flutter project
 
-p align="left">
+<p align="left">
   <img src="https://github.com/ThalisonBauer/interfaceAula/blob/master/img/Screenshot1.png" width="200">
 </p>
 
