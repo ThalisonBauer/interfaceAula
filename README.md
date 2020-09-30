@@ -2,9 +2,8 @@
 
 A new Flutter project
 
-p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="https://github.com/ThalisonBauer/interfaceAula/blob/master/img/Screenshot1.png" width="350" alt="accessibility text">
+p align="left">
+  <img src="https://github.com/ThalisonBauer/interfaceAula/blob/master/img/Screenshot1.png" width="200">
 </p>
 
 
