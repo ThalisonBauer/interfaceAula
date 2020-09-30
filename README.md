@@ -1,6 +1,8 @@
 # aula_interface
 
 A new Flutter project.
+![alt text](https://github.com/ThalisonBauer/interfaceAula/blob/master/img/Screenshot1.png?raw=true)
+
 
 ## Getting Started
 
