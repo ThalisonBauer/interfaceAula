@@ -1,6 +1,6 @@
-import 'package:aula_interface/pages/content.widget.dart';
-import 'package:aula_interface/pages/drop.widget.dart';
-import 'package:aula_interface/pages/homee.widget.dart';
+import 'package:aula_interface/widgets/content.widget.dart';
+import 'package:aula_interface/widgets/drop.widget.dart';
+import 'package:aula_interface/widgets/homee.widget.dart';
 import 'package:flutter/material.dart';
 import 'models/item.dart';
 
